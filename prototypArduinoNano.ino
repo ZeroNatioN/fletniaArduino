@@ -11,6 +11,9 @@
 #define rurka8 3
 #define przycisk 12
 
+//projekt świecącej fletni pana na dzień kobiet 2018 z wykorzystaniem arduino nano
+//Michał Krause
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(12,INPUT_PULLUP);
