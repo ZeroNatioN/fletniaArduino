@@ -441,5 +441,6 @@ void sekwencja3(){
   zapalRurka2(65);
   zapalRurka1(65);
   //niepotrzebny komentarz
+  //dodatkowy komentarz
 }
 
